@@ -1,0 +1,8 @@
+.DS_Store
+data
+data-backup
+duplicator-work
+wp-snapshots
+site
+*.zip
+wrk
