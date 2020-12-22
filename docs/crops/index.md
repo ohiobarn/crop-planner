@@ -1,3 +1,33 @@
-# Crops
+# Overview
 
-todo - a place to manage crops and 
+todo 
+
+## Variety
+
+[New Variety](variety-create.md)
+
+<iframe 
+  class="airtable-embed" 
+  src="https://airtable.com/embed/shr7qie4L1J9ItAxJ?backgroundColor=yellow&viewControls=on" 
+  frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;">
+</iframe>
+
+---
+
+## Plantings
+
+<iframe 
+  class="airtable-embed" 
+  src="https://airtable.com/embed/shrNa1hS0z1flNJr7?backgroundColor=yellow&viewControls=on" 
+  frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;">
+</iframe>
+
+---
+
+## Harvest
+
+<iframe 
+  class="airtable-embed" 
+  src="https://airtable.com/embed/shrO7gGlXmlCHrgsx?backgroundColor=yellow&viewControls=on" 
+  frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;">
+</iframe>

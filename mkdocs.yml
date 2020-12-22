@@ -1,11 +1,21 @@
-site_name: OBFFcp
+site_name: Crop Planner 🌱
 site_author: Tony Gilkerson
+site_description: "Crop Planner for the Ohio Barn Flower Farm"
+site_keyword: "OBFF"
+
 nav:
   - Home: index.md
   - Locations: locations/index.md
   - Crops: crops/index.md
   - About: about.md
 
-#theme: readthedocs
-# theme:
-#   name: material
+theme: 
+  # name: readthedocs
+  # name: nature
+  # name: material
+  name: cluster
+  # name: windmill
+  # name: bootstrap386
+  # name: gitbook
+  # name: github
+  prev_next_buttons_location: none

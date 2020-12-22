@@ -1,9 +1,15 @@
 # crop-planner
+
 Crop Planner
 
-# setup
+# Setup
 
-Onetime setup: `pip3 install mkdocs-material`
+Onetime setup
+
+```bash
+pip3 install mkdocs-material
+pip3 install mkdocs-nature
+```
 
 ```bash
 mkdocs serve
