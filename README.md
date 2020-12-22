@@ -13,6 +13,5 @@ pip3 install mkdocs-nature
 
 ```bash
 mkdocs serve
-mkdocs build --clean
-mkdocs gh-deploy
+mkdocs build --clean;mkdocs gh-deploy
 ```
