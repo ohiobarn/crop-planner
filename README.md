@@ -9,6 +9,7 @@ Onetime setup
 ```bash
 pip3 install mkdocs-material
 pip3 install mkdocs-nature
+pip3 install mkdocs-brudi
 ```
 
 ```bash
