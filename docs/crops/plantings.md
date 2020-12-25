@@ -1,20 +1,13 @@
-# Overview
-
-todo 
-
-## Variety
-
-[New Variety](variety-create.md)
+# Plantings
 
 <iframe 
-  class="airtable-embed" 
-  src="https://airtable.com/embed/shr7qie4L1J9ItAxJ?backgroundColor=yellow&viewControls=on" 
+  class="airtable-embed" src="https://airtable.com/embed/shriW7L6iYVnbbqrR?backgroundColor=yellow&viewControls=on" 
   frameborder="0" onmousewheel="" width="100%" height="700" style="background: transparent; border: 1px solid #ccc;">
 </iframe>
 
 ---
 
-## Plantings By Name
+## List by Crop
 
 <iframe 
   class="airtable-embed" 
@@ -24,7 +17,7 @@ todo
 
 ---
 
-## Sow-Grow-Harvest
+## Status
 
 <iframe 
   class="airtable-embed" src="https://airtable.com/embed/shru7HP9WyUNQjiDk?backgroundColor=yellow&viewControls=on" 
@@ -32,10 +25,10 @@ todo
 </iframe>
 
 ---
-## Harvest
+
+## Greenhouse Plan
 
 <iframe 
-  class="airtable-embed" 
-  src="https://airtable.com/embed/shrO7gGlXmlCHrgsx?backgroundColor=yellow&viewControls=on" 
-  frameborder="0" onmousewheel="" width="100%" height="700" style="background: transparent; border: 1px solid #ccc;">
+  class="airtable-embed" src="https://airtable.com/embed/shrSTCW5Tv9mxQbWg?backgroundColor=yellow&viewControls=on" 
+  frameborder="0" onmousewheel="" width="100%" height="750" style="background: transparent; border: 1px solid #ccc;">
 </iframe>

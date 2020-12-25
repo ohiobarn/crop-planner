@@ -6,7 +6,10 @@ site_keyword: "OBFF"
 nav:
   - Home: index.md
   - Locations: locations/index.md
-  - Crops: crops/index.md
+  - Crops: 
+    - My crops: crops/my-crops.md
+    - Plantings: crops/plantings.md
+    - Harvest: crops/harvest.md
   - Calendar: calendar/index.md
   - About: about.md
 
