@@ -1,10 +1,13 @@
-# Overview
+# Locations
 
-todo 
+## Overview
 
-## Locations
+<iframe 
+  class="airtable-embed" src="https://airtable.com/embed/shrNoyBvbQ3zSSMPF?backgroundColor=yellow&viewControls=on" 
+  frameborder="0" onmousewheel="" width="100%" height="700" style="background: transparent; border: 1px solid #ccc;">
+</iframe>
 
-[New Location](location-create.md)
+## List
 
 <iframe 
   class="airtable-embed" 
@@ -16,3 +19,10 @@ todo
   style="background: transparent; border: 1px solid #ccc;">
 </iframe>
 
+## Plantings
+
+<iframe 
+  class="airtable-embed" 
+  src="https://airtable.com/embed/shrvLbWxeWcjDuLdR?backgroundColor=yellow&viewControls=on" 
+  frameborder="0" onmousewheel="" width="100%" height="700" style="background: transparent; border: 1px solid #ccc;">
+</iframe>

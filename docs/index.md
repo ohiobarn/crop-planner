@@ -1,3 +1,7 @@
-# Crop Planner
+# OPFF Crop Planner
 
-The OBFF Crop Planner.
+![crop planner](img/garden-planner.jpg)
+
+## Notifications
+
+<< no notifications >>
