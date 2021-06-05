@@ -2,6 +2,8 @@
 
 Crop Planner
 
+This project is no longer active.  The airtable views are no longer maintained. I am keeping this as and example for something like this in the future.
+
 # Setup
 
 Onetime setup
