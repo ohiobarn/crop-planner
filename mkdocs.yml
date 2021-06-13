@@ -4,13 +4,14 @@ site_description: "Crop Planner for the Ohio Barn Flower Farm"
 site_keyword: "OBFF"
 
 nav:
-  - Locations: locations/index.md
-  - Crops: 
-    - Varieties: crops/variety.md
-    - Plantings: crops/plantings.md
-    - Harvest: crops/harvest.md
-  - Activities: activities/index.md
-  - About: about.md
+- Locations: 
+  - Beds: locations/mcf-beds.md
+  - MCF-Bed-01: locations/mcf-b01.md
+- Crops: 
+  - Varieties: crops/variety.md
+  - Harvest: crops/harvest.md
+- Activities: activities/index.md
+- About: about.md
 
 theme: 
   # name: readthedocs

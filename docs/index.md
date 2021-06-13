@@ -1,9 +1,5 @@
-# OPFF Crop Planner
+# OBFF Crop Planner
 
-This project is no longer active.  The airtable views are no longer maintained. I am keeping this around as and example for something like this in the future.
+Ohio Barn Flower Farm 2021
 
 ![crop planner](img/garden-planner.jpg)
-
-## Notifications
-
-<< no notifications >>

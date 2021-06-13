@@ -1,3 +1,3 @@
 # About
 
-The crop planner tools cost to much this is my attempt to see what I can do.
+The **Crop Planner** tool is a simple GitHub pages site used to display the OBFF AirTable views.
