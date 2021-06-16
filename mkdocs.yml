@@ -8,7 +8,12 @@ nav:
   - Beds: locations/mcf-beds.md
   - MCF-Bed-01: locations/mcf-b01.md
   - MCF-Bed-02: locations/mcf-b02.md
+  - MCF-Bed-03: locations/mcf-b03.md
   - MCF-Bed-04: locations/mcf-b04.md
+  - MCF-Bed-05: locations/mcf-b05.md
+  - MCF-Bed-06: locations/mcf-b06.md
+  - MCF-Bed-07: locations/mcf-b07.md
+  - MCF-Bed-08: locations/mcf-b08.md
 - Crops: 
   - Varieties: crops/variety.md
   - Harvest: crops/harvest.md

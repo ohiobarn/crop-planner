@@ -1,11 +1,11 @@
-# MCF B04
+# MCF B06
 
-Main cutting field Bed 4.
+Main cutting field Bed 6.
 
-![mcf-b01](img/mcf-b04.png)
+![mcf-b01](img/mcf-b06.png)
 
 <iframe class="airtable-embed" 
-  src="https://airtable.com/embed/shrkpiBmxjwYZVBQM?backgroundColor=yellow&viewControls=on" 
+  src="https://airtable.com/embed/shrpLUieclmSyaDFn?backgroundColor=yellow&viewControls=on" 
   frameborder="0" 
   onmousewheel="" 
   width="100%" 
@@ -14,4 +14,3 @@ Main cutting field Bed 4.
   transparent; 
   border: 1px solid #ccc;">
 </iframe>
-
